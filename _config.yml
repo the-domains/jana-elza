@@ -1,14 +1,14 @@
 layout_spectrum: 0.9513704064302146
-typography_spectrum: 0.23822596692480147
+typography_spectrum: 0.6611564592458308
 color:
-  brandStrength: 0.37220993591472507
-  lightness: 0.9693279336206615
-  saturation: 0.8441907176747918
-  rhythmicContrast: 0.7824164666235447
+  brandStrength: 0.5356276629026979
+  lightness: 0.30256151990033686
+  saturation: 0.14674534229561687
+  rhythmicContrast: 0.8734900357667357
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
 name: jana elza
