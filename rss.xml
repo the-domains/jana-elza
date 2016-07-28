@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MEVR. JANA ELZA]]></title>
+        <description><![CDATA[MEVR. JANA ELZA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jul 2016 17:46:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MEDIA CONSULTANCY]]></title>
+            <description><![CDATA[<article><h1>MEDIA CONSULTANCY</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2930dc5e659847fea6d40ae4467cb2bc/croprotate.jpg?cropheight=2370&cropwidth=3161&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F47f668e9-4ade-4ceb-904b-f2e9a3ca99aa.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/47f668e9-4ade-4ceb-904b-f2e9a3ca99aa.jpg</link>
+            <guid isPermaLink="false">2c07579c-9f06-4676-b5b6-49b1332e8dd5</guid>
+            <pubDate>Thu, 28 Jul 2016 17:46:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
